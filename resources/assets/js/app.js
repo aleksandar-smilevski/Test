@@ -24,3 +24,10 @@ const app = new Vue({
     },
     template: '{{message}} <example-component></example-component>'
 });
+
+
+
+
+
+
+

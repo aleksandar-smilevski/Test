@@ -90,7 +90,6 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
                 @{{ message }}
-
             </div>
         </div>
         <script src="{{ asset('js/app.js') }}"></script>
